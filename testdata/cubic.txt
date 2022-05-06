@@ -1,0 +1,10 @@
+cubic\001.txt 20
+cubic\002.txt 40
+cubic\003.txt 60
+cubic\004.txt 80
+cubic\005.txt 100
+cubic\006.txt 120
+cubic\007.txt 140
+cubic\008.txt 160
+cubic\009.txt 180
+cubic\010.txt 200

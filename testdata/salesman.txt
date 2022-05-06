@@ -1,0 +1,10 @@
+salesman\000.txt 1
+salesman\001.txt 2
+salesman\002.txt 3
+salesman\003.txt 4
+salesman\004.txt 5
+salesman\005.txt 6
+salesman\006.txt 7
+salesman\007.txt 8
+salesman\008.txt 9
+salesman\009.txt 10
